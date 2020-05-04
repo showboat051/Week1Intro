@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Week1.Lab4</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="VowelNum16.cs" />
+  </ItemGroup>
+
+</Project>
